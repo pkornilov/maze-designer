@@ -11,7 +11,6 @@ Built using
 
 How to Run
 ------------
-To run the project, you would require MS Visual Studio and XNA Game Studio 4.0.
  1. Download the project to your computer
  2. Open it with NetBeans or other IDE
  3. From the top menu bar (in NetBeans), click the green 'Start' button or hit F6.
