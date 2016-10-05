@@ -9,7 +9,7 @@ Built using
 * Java
 * NetBeans
 
-How to Run
+How to run
 ------------
  1. Download the project to your computer
  2. Open it with NetBeans or other IDE
